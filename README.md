@@ -13,8 +13,8 @@ Click on bitcoinnerod
 ## Create Wallet
 Click on simplewallet
 
+## If you Need to Update Blockchain Import to the last update 
 ```
-If you Need to Update Blockchain Import to the last update 
 Download http://blockchain.btcnero.org/blockchain.zip
 unzip blockchain.zip
 Rename "." of BitcoinNero 
