@@ -3,8 +3,11 @@
 ## Download Windows Cli + Blockchain Import
 
 Download http://download.btcnero.org/windows-cli.zip
-
 ```
 Unzip Files
-Click on blockchain-import.bat
 ```
+Download http://download.btcnero.org/blockchain.zip
+```
+Unzip Files 
+```
+Remove "." from .BitcoinNero and move BitcoinNero folder to C:\Users\%USERNAME%\AppData\Roaming
